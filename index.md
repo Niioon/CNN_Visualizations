@@ -74,8 +74,7 @@ Video Test Hosting
 
 
 </div>
-
-<\body>
-<\html>
+</body>
+</html>
 
 #### Textures
