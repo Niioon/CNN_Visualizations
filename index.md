@@ -18,7 +18,7 @@ Video Test Hosting
 <br>
 <video width="500" height="200" controls autoplay loop>
   <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
-  errör
+  
 </video>
 <br>
 <br>
@@ -27,13 +27,17 @@ Video Test Hosting
 <div class="video-grid">
   <div class="video-item">
     <div class="video-wrap">
-      <iframe src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      <video width="500" height="200" controls autoplay loop>
+        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+      </video>
     </div>
   </div>
 <div class="video-item">
     <div class="video-wrap">
-      <iframe src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4" frameborder="0" webkitallowfullscreenb mozallowfullscreen allowfullscreen></iframe>
-    </div>
+      <video width="500" height="200" controls autoplay loop>
+        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+      </video>
+     </div>
   </div>
 <div class="video-item">
     <div class="video-wrap">
@@ -76,5 +80,5 @@ Video Test Hosting
 </div>
 </body>
 </html>
-
+ 
 #### Textures
