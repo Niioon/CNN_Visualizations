@@ -5,6 +5,8 @@
 #### Edges
   
 ```html
+<!DOCTYPE html>
+<html>
 
 <head>
   <link rel="stylesheet" href="styles.css">
@@ -75,6 +77,7 @@ Video Test Hosting
 </div>
 
 <\body>
+<\html>
 ```
 
 #### Textures
