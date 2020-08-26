@@ -29,39 +29,55 @@
           <iframe src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4" width="640" height="360" frameborder="0" webkitallowfullscreen           mozallowfullscreen allowfullscreen></iframe>
         </div>
       </div>
-  <div class="video-grid">
-      <div class="video-item">
-        <div class="video-wrap">
-          <iframe src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4" width="640" height="360" frameborder="0" webkitallowfullscreen           mozallowfullscreen allowfullscreen></iframe>
-        </div>
-      </div><div class="video-grid">
-      <div class="video-item">
-        <div class="video-wrap">
-          <iframe src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4" width="640" height="360" frameborder="0" webkitallowfullscreen           mozallowfullscreen allowfullscreen></iframe>
-        </div>
-      </div><div class="video-grid">
-      <div class="video-item">
-        <div class="video-wrap">
-          <iframe src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4" width="640" height="360" frameborder="0" webkitallowfullscreen           mozallowfullscreen allowfullscreen></iframe>
-        </div>
-      </div><div class="video-grid">
-      <div class="video-item">
+  <div class="video-item">
         <div class="video-wrap">
           <iframe src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4" width="640" height="360" frameborder="0" webkitallowfullscreen           mozallowfullscreen allowfullscreen></iframe>
         </div>
       </div>
-      <div class="video-item">
+  <div class="video-item">
         <div class="video-wrap">
-          <iframe src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+          <iframe src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4" width="640" height="360" frameborder="0" webkitallowfullscreen           mozallowfullscreen allowfullscreen></iframe>
         </div>
       </div>
-      <div class="video-item">
+  <div class="video-item">
         <div class="video-wrap">
-          <iframe src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+          <iframe src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4" width="640" height="360" frameborder="0" webkitallowfullscreen           mozallowfullscreen allowfullscreen></iframe>
         </div>
       </div>
-    </div>
-     
+  <div class="video-item">
+        <div class="video-wrap">
+          <iframe src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4" width="640" height="360" frameborder="0" webkitallowfullscreen           mozallowfullscreen allowfullscreen></iframe>
+        </div>
+      </div>
+  <div class="video-item">
+        <div class="video-wrap">
+          <iframe src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4" width="640" height="360" frameborder="0" webkitallowfullscreen           mozallowfullscreen allowfullscreen></iframe>
+        </div>
+      </div>
+  <div class="video-item">
+        <div class="video-wrap">
+          <iframe src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4" width="640" height="360" frameborder="0" webkitallowfullscreen           mozallowfullscreen allowfullscreen></iframe>
+        </div>
+      </div>
+  <div class="video-item">
+        <div class="video-wrap">
+          <iframe src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4" width="640" height="360" frameborder="0" webkitallowfullscreen           mozallowfullscreen allowfullscreen></iframe>
+        </div>
+      </div>
+  <div class="video-item">
+        <div class="video-wrap">
+          <iframe src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4" width="640" height="360" frameborder="0" webkitallowfullscreen           mozallowfullscreen allowfullscreen></iframe>
+        </div>
+      </div>
+  <div class="video-item">
+        <div class="video-wrap">
+          <iframe src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4" width="640" height="360" frameborder="0" webkitallowfullscreen           mozallowfullscreen allowfullscreen></iframe>
+        </div>
+      </div>
+  
+       
+   </div>
+
   <\body>
   <html>
 
