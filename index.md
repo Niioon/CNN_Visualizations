@@ -4,8 +4,7 @@
 
 #### Edges
   
-```html
-<!DOCTYPE html>
+ 
 <html>
 
 <head>
@@ -78,6 +77,5 @@ Video Test Hosting
 
 <\body>
 <\html>
-```
 
 #### Textures
