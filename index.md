@@ -4,8 +4,8 @@
 
 #### Edges
   
+```html
 
-    <html>
     <head>
       <link rel="stylesheet" href="styles.css">
     </head>
@@ -75,5 +75,6 @@
      </div>
 
     <\body>
-    <\html>
+```
+
 #### Textures
