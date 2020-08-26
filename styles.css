@@ -18,18 +18,14 @@
   margin-top: 0;
 }
 
-.video-item img {
-  display: block;
-  height: 500px;
-  width: 100px;
-}
+ 
 
 @supports (display: grid) {
 
   .video-grid {
     display: grid;
-    grid-template-columns: repeat(3, 500px);
-    grid-template-rows: repeat(3, 200px);
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
     margin: 0;
   }
   
