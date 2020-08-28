@@ -20,84 +20,17 @@ Video Test Hosting
   <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
   
 </video>
-<br>
-<br>
-<br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br>
+ 
 <img src="http://i.stack.imgur.com/SBv4T.gif" alt="this slowpoke moves"  width=250/>
 
 <div  id="edge_videos" class="video-grid">
+  <div class="image-item">
+    <div class="image-wrap">
+      <img width="200" height="200">
+        <source src="mobilenet_v2_visualizations/images/block_10_project_BN/0_lucid.png">
+      </video>
+    </div>
+  </div>
   <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" controls autoplay loop>
