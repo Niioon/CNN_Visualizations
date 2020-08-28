@@ -24,7 +24,7 @@ Video Test Hosting
 <br>
 <img src="http://i.stack.imgur.com/SBv4T.gif" alt="this slowpoke moves"  width=250/>
 
-<div class="video-grid">
+<div  id="edge_videos" class="video-grid">
   <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" controls autoplay loop>
