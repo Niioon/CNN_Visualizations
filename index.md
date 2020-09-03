@@ -71,7 +71,7 @@ The features of the following blocks are more plastic and show textures
 
 <body>
  
-<div  id="edge_videos" class="video-grid">
+<div  id="texture_videos" class="video-grid">
  <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" controls autoplay loop>
@@ -129,7 +129,7 @@ More complex patterns, containing small parts like eyes.
 
 <body>
  
-<div  id="edge_videos" class="video-grid">
+<div  id="pattern_videos" class="video-grid">
   <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" controls autoplay loop>
@@ -186,7 +186,7 @@ More complex patterns, containing small parts like eyes.
 
 <body>
  
-<div  id="edge_videos" class="video-grid">
+<div  id="parts_videos" class="video-grid">
 <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" controls autoplay loop>
@@ -244,7 +244,7 @@ More complex patterns, containing small parts like eyes.
 
 <body>
  
-<div  id="edge_videos" class="video-grid">
+<div  id="objects_videos" class="video-grid">
  <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" controls autoplay loop>
@@ -301,7 +301,7 @@ More complex patterns, containing small parts like eyes.
 
 <body>
  
-<div  id="edge_videos" class="video-grid">
+<div  id="classes_videos" class="video-grid">
  <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" controls autoplay loop>
