@@ -75,42 +75,42 @@ The features of the following blocks are more plastic and show textures
  <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" controls autoplay loop>
-        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        <source src="mobilenet_v2_visualizations/videos/textures/block_3_project_BN10_1.mp4"  type="video/mp4">
       </video>
     </div>
   </div>
   <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" controls autoplay loop>
-        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        <source src="mobilenet_v2_visualizations/videos/textures/block_3_project_BN26_1.mp4"  type="video/mp4">
       </video>
     </div>
   </div>
   <div class="video-item">
       <div class="video-wrap">
         <video width="500" height="200" controls autoplay loop>
-          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+          <source src="mobilenet_v2_visualizations/videos/textures/block_3_project_BN6_1.mp4"  type="video/mp4">
         </video>
        </div>
     </div>
    <div class="video-item">
       <div class="video-wrap">
         <video width="500" height="200" controls autoplay loop>
-          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+          <source src="mobilenet_v2_visualizations/videos/textures/block_4_project_BN20_1.mp4"  type="video/mp4">
         </video>
        </div>
     </div>
   <div class="video-item">
       <div class="video-wrap">
         <video width="500" height="200" controls autoplay loop>
-          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+          <source src="mobilenet_v2_visualizations/videos/textures/block_5_add1_1.mp4"  type="video/mp4">
         </video>
        </div>
    </div>
   <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" controls autoplay loop>
-        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        <source src="mobilenet_v2_visualizations/videos/textures/block_5_add28_1.mp4"  type="video/mp4">
       </video>
      </div>
   </div>
