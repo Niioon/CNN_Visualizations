@@ -247,7 +247,7 @@ More complex patterns, containing small parts like eyes.
 <div  id="objects_videos" class="video-grid">
  <div class="video-item">
     <div class="video-wrap">
-      <video width="500" height="200" poster=mobilenet_v2_visualizations/videos/posters/poster_block_13_project_BN_60.png controls loop>
+      <video width="500" height="200" poster="mobilenet_v2_visualizations/videos/posters/poster_block_13_project_BN_60.png" controls loop>
         <source src="mobilenet_v2_visualizations/videos/objects/block_13_project_BN60_1.mp4"  type="video/mp4">
       </video>
     </div>
