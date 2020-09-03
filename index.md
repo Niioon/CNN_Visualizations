@@ -10,22 +10,12 @@ The feature detectors in block 1 seem to respond to different kinds of edges.
 </head>
 
 <body>
-
-Video Test Hosting
-<br>
-<br>
-<video width="500" height="200" controls autoplay loop>
-  <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
-  
-</video>
  
-<img src="http://i.stack.imgur.com/SBv4T.gif" alt="this slowpoke moves"  width=250/>
-
 <div  id="edge_videos" class="video-grid">
   <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200">
-        <source src="mobilenet_v2_visualizations/images/block_10_project_BN/0_lucid.png">
+        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4">
       </video>
     </div>
   </div>
@@ -68,4 +58,288 @@ Video Test Hosting
 </body>
 </html>
  
-#### Textures
+### Textures
+
+<html>
+
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+ 
+<div  id="edge_videos" class="video-grid">
+  <div class="video-item">
+    <div class="video-wrap">
+      <video width="500" height="200">
+        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4">
+      </video>
+    </div>
+  </div>
+  <div class="video-item">
+    <div class="video-wrap">
+      <video width="500" height="200" controls autoplay loop>
+        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+      </video>
+    </div>
+  </div>
+  <div class="video-item">
+      <div class="video-wrap">
+        <video width="500" height="200" controls autoplay loop>
+          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        </video>
+       </div>
+    </div>
+   <div class="video-item">
+      <div class="video-wrap">
+        <video width="500" height="200" controls autoplay loop>
+          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        </video>
+       </div>
+    </div>
+  <div class="video-item">
+      <div class="video-wrap">
+        <video width="500" height="200" controls autoplay loop>
+          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        </video>
+       </div>
+   </div>
+  <div class="video-item">
+    <div class="video-wrap">
+      <video width="500" height="200" controls autoplay loop>
+        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+      </video>
+     </div>
+  </div>
+</div>
+</body>
+</html>
+
+### Patterns
+
+<html>
+
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+ 
+<div  id="edge_videos" class="video-grid">
+  <div class="video-item">
+    <div class="video-wrap">
+      <video width="500" height="200">
+        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4">
+      </video>
+    </div>
+  </div>
+  <div class="video-item">
+    <div class="video-wrap">
+      <video width="500" height="200" controls autoplay loop>
+        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+      </video>
+    </div>
+  </div>
+  <div class="video-item">
+      <div class="video-wrap">
+        <video width="500" height="200" controls autoplay loop>
+          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        </video>
+       </div>
+    </div>
+   <div class="video-item">
+      <div class="video-wrap">
+        <video width="500" height="200" controls autoplay loop>
+          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        </video>
+       </div>
+    </div>
+  <div class="video-item">
+      <div class="video-wrap">
+        <video width="500" height="200" controls autoplay loop>
+          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        </video>
+       </div>
+   </div>
+  <div class="video-item">
+    <div class="video-wrap">
+      <video width="500" height="200" controls autoplay loop>
+        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+      </video>
+     </div>
+  </div>
+</div>
+</body>
+</html>
+
+### Parts
+
+<html>
+
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+ 
+<div  id="edge_videos" class="video-grid">
+  <div class="video-item">
+    <div class="video-wrap">
+      <video width="500" height="200">
+        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4">
+      </video>
+    </div>
+  </div>
+  <div class="video-item">
+    <div class="video-wrap">
+      <video width="500" height="200" controls autoplay loop>
+        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+      </video>
+    </div>
+  </div>
+  <div class="video-item">
+      <div class="video-wrap">
+        <video width="500" height="200" controls autoplay loop>
+          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        </video>
+       </div>
+    </div>
+   <div class="video-item">
+      <div class="video-wrap">
+        <video width="500" height="200" controls autoplay loop>
+          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        </video>
+       </div>
+    </div>
+  <div class="video-item">
+      <div class="video-wrap">
+        <video width="500" height="200" controls autoplay loop>
+          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        </video>
+       </div>
+   </div>
+  <div class="video-item">
+    <div class="video-wrap">
+      <video width="500" height="200" controls autoplay loop>
+        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+      </video>
+     </div>
+  </div>
+</div>
+</body>
+</html>
+
+### Objects
+
+
+<html>
+
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+ 
+<div  id="edge_videos" class="video-grid">
+  <div class="video-item">
+    <div class="video-wrap">
+      <video width="500" height="200">
+        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4">
+      </video>
+    </div>
+  </div>
+  <div class="video-item">
+    <div class="video-wrap">
+      <video width="500" height="200" controls autoplay loop>
+        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+      </video>
+    </div>
+  </div>
+  <div class="video-item">
+      <div class="video-wrap">
+        <video width="500" height="200" controls autoplay loop>
+          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        </video>
+       </div>
+    </div>
+   <div class="video-item">
+      <div class="video-wrap">
+        <video width="500" height="200" controls autoplay loop>
+          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        </video>
+       </div>
+    </div>
+  <div class="video-item">
+      <div class="video-wrap">
+        <video width="500" height="200" controls autoplay loop>
+          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        </video>
+       </div>
+   </div>
+  <div class="video-item">
+    <div class="video-wrap">
+      <video width="500" height="200" controls autoplay loop>
+        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+      </video>
+     </div>
+  </div>
+</div>
+</body>
+</html>
+
+### Classes
+
+<html>
+
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+ 
+<div  id="edge_videos" class="video-grid">
+  <div class="video-item">
+    <div class="video-wrap">
+      <video width="500" height="200">
+        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4">
+      </video>
+    </div>
+  </div>
+  <div class="video-item">
+    <div class="video-wrap">
+      <video width="500" height="200" controls autoplay loop>
+        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+      </video>
+    </div>
+  </div>
+  <div class="video-item">
+      <div class="video-wrap">
+        <video width="500" height="200" controls autoplay loop>
+          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        </video>
+       </div>
+    </div>
+   <div class="video-item">
+      <div class="video-wrap">
+        <video width="500" height="200" controls autoplay loop>
+          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        </video>
+       </div>
+    </div>
+  <div class="video-item">
+      <div class="video-wrap">
+        <video width="500" height="200" controls autoplay loop>
+          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        </video>
+       </div>
+   </div>
+  <div class="video-item">
+    <div class="video-wrap">
+      <video width="500" height="200" controls autoplay loop>
+        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+      </video>
+     </div>
+  </div>
+</div>
+</body>
+</html>
