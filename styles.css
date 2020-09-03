@@ -26,7 +26,7 @@
     display: grid;
     grid-template-columns: repeat(2, 500px);
     grid-template-rows: repeat(3, 200px);
-    margin: 0;
+    margin: 0.5;
   }
   
   .video-item {
