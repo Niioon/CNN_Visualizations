@@ -64,10 +64,6 @@ Video Test Hosting
       </video>
      </div>
   </div>
-  </div>
-  
-
-
 </div>
 </body>
 </html>
