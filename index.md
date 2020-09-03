@@ -1,6 +1,7 @@
 ## NEB algorithm for Feature Visualization
 
-Visualizations of different features of MobileNetV2.
+## MobileNetV2 Visualizations
+Visualizations of different features of MobileNetV2
 ### Edges
 The feature detectors in block 1 seem to respond to different kinds of edges.   
 <html>
@@ -12,45 +13,45 @@ The feature detectors in block 1 seem to respond to different kinds of edges.
 <body>
  
 <div  id="edge_videos" class="video-grid">
- <div class="video-item">
+  <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" controls autoplay loop>
-        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        <source src="mobilenet_v2_visualizations/videos/edges/block_1_project_BN1_1.mp4"  type="video/mp4">
       </video>
     </div>
   </div>
   <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" controls autoplay loop>
-        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        <source src="mobilenet_v2_visualizations/videos/edges/block_1_project_BN20_1.mp4"  type="video/mp4">
       </video>
     </div>
   </div>
   <div class="video-item">
       <div class="video-wrap">
         <video width="500" height="200" controls autoplay loop>
-          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+          <source src="mobilenet_v2_visualizations/videos/edges/block_1_project_BN22_1"  type="video/mp4">
         </video>
        </div>
     </div>
    <div class="video-item">
       <div class="video-wrap">
         <video width="500" height="200" controls autoplay loop>
-          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+          <source src="mobilenet_v2_visualizations/videos/edges/block_1_project_BN2_1.mp4"  type="video/mp4">
         </video>
        </div>
     </div>
   <div class="video-item">
       <div class="video-wrap">
         <video width="500" height="200" controls autoplay loop>
-          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+          <source src="mobilenet_v2_visualizations/videos/edges/block_1_project_BN3_1.mp4"  type="video/mp4">
         </video>
        </div>
    </div>
   <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" controls autoplay loop>
-        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        <source src="mobilenet_v2_visualizations/videos/edges/block_1_project_BN9_1.mp4"  type="video/mp4">
       </video>
      </div>
   </div>
@@ -59,6 +60,8 @@ The feature detectors in block 1 seem to respond to different kinds of edges.
 </html>
  
 ### Textures
+
+The features of the following blocks are more plastic and show textures
 
 <html>
 
@@ -116,6 +119,7 @@ The feature detectors in block 1 seem to respond to different kinds of edges.
 </html>
 
 ### Patterns
+More complex patterns, containing small parts like eyes.
 
 <html>
 
@@ -129,42 +133,42 @@ The feature detectors in block 1 seem to respond to different kinds of edges.
   <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" controls autoplay loop>
-        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        <source src="mobilenet_v2_visualizations/videos/patterns/block_6_project_BN1_1.mp4"  type="video/mp4">
       </video>
     </div>
   </div>
   <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" controls autoplay loop>
-        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        <source src="mobilenet_v2_visualizations/videos/patterns/block_6_project_BN59_1.mp4"  type="video/mp4">
       </video>
     </div>
   </div>
   <div class="video-item">
       <div class="video-wrap">
         <video width="500" height="200" controls autoplay loop>
-          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+          <source src="mobilenet_v2_visualizations/videos/patterns/block_6_project_BN7_1.mp4"  type="video/mp4">
         </video>
        </div>
     </div>
    <div class="video-item">
       <div class="video-wrap">
         <video width="500" height="200" controls autoplay loop>
-          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+          <source src="mobilenet_v2_visualizations/videos/patterns/block_7_add6_1.mp4"  type="video/mp4">
         </video>
        </div>
     </div>
   <div class="video-item">
       <div class="video-wrap">
         <video width="500" height="200" controls autoplay loop>
-          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+          <source src="mobilenet_v2_visualizations/videos/patterns/block_7_project_BN17_1.mp4"  type="video/mp4">
         </video>
        </div>
    </div>
   <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" controls autoplay loop>
-        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        <source src="mobilenet_v2_visualizations/videos/patterns/block_7_project_BN3_1.mp4"  type="video/mp4">
       </video>
      </div>
   </div>
@@ -186,42 +190,42 @@ The feature detectors in block 1 seem to respond to different kinds of edges.
 <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" controls autoplay loop>
-        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        <source src="mobilenet_v2_visualizations/videos/parts/block_11_project_BN5_1.mp4"  type="video/mp4">
       </video>
     </div>
   </div>
   <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" controls autoplay loop>
-        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        <source src="mobilenet_v2_visualizations/videos/parts/block_11_project_BN89_1.mp4"  type="video/mp4">
       </video>
     </div>
   </div>
   <div class="video-item">
       <div class="video-wrap">
         <video width="500" height="200" controls autoplay loop>
-          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+          <source src="mobilenet_v2_visualizations/videos/parts/block_12_add25_1.mp4"  type="video/mp4">
         </video>
        </div>
     </div>
    <div class="video-item">
       <div class="video-wrap">
         <video width="500" height="200" controls autoplay loop>
-          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+          <source src="mobilenet_v2_visualizations/videos/parts/block_12_add30_1.mp4"  type="video/mp4">
         </video>
        </div>
     </div>
   <div class="video-item">
       <div class="video-wrap">
         <video width="500" height="200" controls autoplay loop>
-          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+          <source src="mobilenet_v2_visualizations/videos/parts/block_12_add44_1.mp4"  type="video/mp4">
         </video>
        </div>
    </div>
   <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" controls autoplay loop>
-        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        <source src="mobilenet_v2_visualizations/videos/parts/block_12_add44_1.mp4"  type="video/mp4">
       </video>
      </div>
   </div>
