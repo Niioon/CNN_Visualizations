@@ -248,42 +248,42 @@ More complex patterns, containing small parts like eyes.
  <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" controls autoplay loop>
-        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        <source src="mobilenet_v2_visualizations/videos/objects/block_13_project_BN60_1.mp4"  type="video/mp4">
       </video>
     </div>
   </div>
   <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" controls autoplay loop>
-        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        <source src="mobilenet_v2_visualizations/videos/objects/block_14_add110_1.mp4"  type="video/mp4">
       </video>
     </div>
   </div>
   <div class="video-item">
       <div class="video-wrap">
         <video width="500" height="200" controls autoplay loop>
-          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+          <source src="mobilenet_v2_visualizations/videos/objects/block_14_add149_1.mp4"  type="video/mp4">
         </video>
        </div>
     </div>
    <div class="video-item">
       <div class="video-wrap">
         <video width="500" height="200" controls autoplay loop>
-          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+          <source src="mobilenet_v2_visualizations/videos/objects/block_14_add153_1.mp4"  type="video/mp4">
         </video>
        </div>
     </div>
   <div class="video-item">
       <div class="video-wrap">
         <video width="500" height="200" controls autoplay loop>
-          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+          <source src="mobilenet_v2_visualizations/videos/objects/block_14_add3_1.mp4"  type="video/mp4">
         </video>
        </div>
    </div>
   <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" controls autoplay loop>
-        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        <source src="mobilenet_v2_visualizations/videos/objects/block_14_add95_1.mp4"  type="video/mp4">
       </video>
      </div>
   </div>
