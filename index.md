@@ -3,7 +3,7 @@
 ## MobileNetV2 Visualizations
 Visualizations of different features of MobileNetV2
 ### Edges
-The feature detectors in block 1 seem to respond to different kinds of edges.   
+The feature detectors in block 1 seem to respond to different kinds of edges. No total variation penalty was used to create the following videos, as it is counterproductive for edges.
 <html>
 
 <head>
@@ -15,14 +15,14 @@ The feature detectors in block 1 seem to respond to different kinds of edges.
 <div  id="edge_videos" class="video-grid">
   <div class="video-item">
     <div class="video-wrap">
-      <video width="500" height="200" controls autoplay loop>
+      <video width="500" height="200" controls loop>
         <source src="mobilenet_v2_visualizations/videos/edges/block_1_project_BN1_1.mp4"  type="video/mp4">
       </video>
     </div>
   </div>
   <div class="video-item">
     <div class="video-wrap">
-      <video width="500" height="200" controls autoplay loop>
+      <video width="500" height="200" controls loop>
         <source src="mobilenet_v2_visualizations/videos/edges/block_1_project_BN20_1.mp4"  type="video/mp4">
       </video>
     </div>
