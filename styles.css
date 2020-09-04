@@ -52,7 +52,7 @@
   .image-grid {
     display: grid;
     grid-template-columns: repeat(3, 333px);
-    grid-template-rows: repeat(2, 330px);
+    grid-template-rows: repeat(2, 360px);
     margin: 0;
   }
    
