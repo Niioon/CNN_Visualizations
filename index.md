@@ -297,7 +297,7 @@ More complex patterns, containing small parts like eyes.
   </div>
   <div class="video-item">
       <div class="video-wrap">
-        <video width="500" height="200"preload="none" controls loop>
+        <video width="500" height="200" "preload="none" controls loop>
           <source src="mobilenet_v2_visualizations/videos/objects/block_14_add149_1.mp4"  type="video/mp4">
         </video>
        </div>
