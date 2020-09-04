@@ -144,6 +144,45 @@ The features of the following blocks are more plastic and show textures
 </head>
 
 <body>
+  
+<div class="image-grid">
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/1_lucid.png" alt="edge feature" width="330" height="330">
+     <header class="entry-header">
+        <h4>Block_1_project_BN, unit 1</h4>
+    </header>
+  </div>
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/2_lucid.png" alt="edge feature" width="330" height="330">
+    <header class="entry-header">
+        <h4>Block_1_project_BN, unit 2</h4>
+    </header>
+  </div>
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/3_lucid.png" alt="edge feature" width="330" height="330">
+    <header class="entry-header">
+        <h4>Block_1_project_BN, unit 3</h4>
+    </header>
+  </div>
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/9_lucid.png" alt="edge feature" width="330" height="330">
+    <header class="entry-header">
+        <h4>Block_1_project_BN, unit 9</h4>
+    </header>
+  </div>
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/20_lucid.png" alt="edge feature" width="330" height="330">
+    <header class="entry-header">
+        <h4>Block_1_project_BN, unit 20</h4>
+    </header>
+  </div>
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/22_lucid.png" alt="edge feature" width="330" height="330">
+    <header class="entry-header">
+        <h4>Block_1_project_BN, unit 22</h4>
+    </header>
+  </div>
+</div>
  
 <div  id="texture_videos" class="video-grid">
  <div class="video-item">
@@ -202,7 +241,45 @@ More complex patterns, containing small parts like eyes.
 </head>
 
 <body>
- 
+<div class="image-grid">
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/1_lucid.png" alt="edge feature" width="330" height="330">
+     <header class="entry-header">
+        <h4>Block_1_project_BN, unit 1</h4>
+    </header>
+  </div>
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/2_lucid.png" alt="edge feature" width="330" height="330">
+    <header class="entry-header">
+        <h4>Block_1_project_BN, unit 2</h4>
+    </header>
+  </div>
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/3_lucid.png" alt="edge feature" width="330" height="330">
+    <header class="entry-header">
+        <h4>Block_1_project_BN, unit 3</h4>
+    </header>
+  </div>
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/9_lucid.png" alt="edge feature" width="330" height="330">
+    <header class="entry-header">
+        <h4>Block_1_project_BN, unit 9</h4>
+    </header>
+  </div>
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/20_lucid.png" alt="edge feature" width="330" height="330">
+    <header class="entry-header">
+        <h4>Block_1_project_BN, unit 20</h4>
+    </header>
+  </div>
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/22_lucid.png" alt="edge feature" width="330" height="330">
+    <header class="entry-header">
+        <h4>Block_1_project_BN, unit 22</h4>
+    </header>
+  </div>
+</div>
+  
 <div  id="pattern_videos" class="video-grid">
   <div class="video-item">
     <div class="video-wrap">
@@ -259,6 +336,46 @@ More complex patterns, containing small parts like eyes.
 </head>
 
 <body>
+
+<div class="image-grid">
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/1_lucid.png" alt="edge feature" width="330" height="330">
+     <header class="entry-header">
+        <h4>Block_1_project_BN, unit 1</h4>
+    </header>
+  </div>
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/2_lucid.png" alt="edge feature" width="330" height="330">
+    <header class="entry-header">
+        <h4>Block_1_project_BN, unit 2</h4>
+    </header>
+  </div>
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/3_lucid.png" alt="edge feature" width="330" height="330">
+    <header class="entry-header">
+        <h4>Block_1_project_BN, unit 3</h4>
+    </header>
+  </div>
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/9_lucid.png" alt="edge feature" width="330" height="330">
+    <header class="entry-header">
+        <h4>Block_1_project_BN, unit 9</h4>
+    </header>
+  </div>
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/20_lucid.png" alt="edge feature" width="330" height="330">
+    <header class="entry-header">
+        <h4>Block_1_project_BN, unit 20</h4>
+    </header>
+  </div>
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/22_lucid.png" alt="edge feature" width="330" height="330">
+    <header class="entry-header">
+        <h4>Block_1_project_BN, unit 22</h4>
+    </header>
+  </div>
+</div>
+
  
 <div  id="parts_videos" class="video-grid">
 <div class="video-item">
@@ -317,7 +434,45 @@ More complex patterns, containing small parts like eyes.
 </head>
 
 <body>
- 
+<div class="image-grid">
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/1_lucid.png" alt="edge feature" width="330" height="330">
+     <header class="entry-header">
+        <h4>Block_1_project_BN, unit 1</h4>
+    </header>
+  </div>
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/2_lucid.png" alt="edge feature" width="330" height="330">
+    <header class="entry-header">
+        <h4>Block_1_project_BN, unit 2</h4>
+    </header>
+  </div>
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/3_lucid.png" alt="edge feature" width="330" height="330">
+    <header class="entry-header">
+        <h4>Block_1_project_BN, unit 3</h4>
+    </header>
+  </div>
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/9_lucid.png" alt="edge feature" width="330" height="330">
+    <header class="entry-header">
+        <h4>Block_1_project_BN, unit 9</h4>
+    </header>
+  </div>
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/20_lucid.png" alt="edge feature" width="330" height="330">
+    <header class="entry-header">
+        <h4>Block_1_project_BN, unit 20</h4>
+    </header>
+  </div>
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/22_lucid.png" alt="edge feature" width="330" height="330">
+    <header class="entry-header">
+        <h4>Block_1_project_BN, unit 22</h4>
+    </header>
+  </div>
+</div>
+  
 <div  id="objects_videos" class="video-grid">
  <div class="video-item">
     <div class="video-wrap">
@@ -374,7 +529,46 @@ More complex patterns, containing small parts like eyes.
 </head>
 
 <body>
- 
+
+<div class="image-grid">
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/1_lucid.png" alt="edge feature" width="330" height="330">
+     <header class="entry-header">
+        <h4>Block_1_project_BN, unit 1</h4>
+    </header>
+  </div>
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/2_lucid.png" alt="edge feature" width="330" height="330">
+    <header class="entry-header">
+        <h4>Block_1_project_BN, unit 2</h4>
+    </header>
+  </div>
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/3_lucid.png" alt="edge feature" width="330" height="330">
+    <header class="entry-header">
+        <h4>Block_1_project_BN, unit 3</h4>
+    </header>
+  </div>
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/9_lucid.png" alt="edge feature" width="330" height="330">
+    <header class="entry-header">
+        <h4>Block_1_project_BN, unit 9</h4>
+    </header>
+  </div>
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/20_lucid.png" alt="edge feature" width="330" height="330">
+    <header class="entry-header">
+        <h4>Block_1_project_BN, unit 20</h4>
+    </header>
+  </div>
+  <div class="image-item">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/22_lucid.png" alt="edge feature" width="330" height="330">
+    <header class="entry-header">
+        <h4>Block_1_project_BN, unit 22</h4>
+    </header>
+  </div>
+</div>
+
 <div  id="classes_videos" class="video-grid">
  <div class="video-item">
     <div class="video-wrap">
