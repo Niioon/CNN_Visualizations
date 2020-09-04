@@ -395,8 +395,8 @@ More complex patterns, containing small parts like eyes.
   </div>
   <div class="video-item">
       <div class="video-wrap">
-        <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_12_add/25_lucid.png" controls loop>
-          <source src="mobilenet_v2_visualizations/videos/parts/block_12_add25_1.mp4"  type="video/mp4">
+        <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_12_add/74_lucid.png" controls loop>
+          <source src="mobilenet_v2_visualizations/videos/parts/block_12_add74_1.mp4"  type="video/mp4">
         </video>
        </div>
     </div>
@@ -512,7 +512,7 @@ More complex patterns, containing small parts like eyes.
    </div>
   <div class="video-item">
     <div class="video-wrap">
-      <video width="500" height="200" preload="none"poster="mobilenet_v2_visualizations/images/block_14_add/95_lucid.png"  controls loop>
+      <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_14_add/95_lucid.png"  controls loop>
         <source src="mobilenet_v2_visualizations/videos/objects/block_14_add95_1.mp4"  type="video/mp4">
       </video>
      </div>
