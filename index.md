@@ -16,7 +16,7 @@
 ### Multiple Starting Images
 
 <html>
-  <video width="500" height="200" preload="none" controls loop>
+  <video id="neb_example_12_add_33" width="500" height="200" preload="none" controls loop>
      <source src="mobilenet_v2_visualizations/videos/thesis_examples/neb_block_12_add33.mp4"  type="video/mp4">
   </video>
 </html>
@@ -24,14 +24,14 @@
 ### A bad example
 
 <html>
-  <video width="500" height="200" preload="none" controls loop>
+  <video  id="neb_example_2_add_6_tv" width="500" height="200" preload="none" controls loop>
      <source src="mobilenet_v2_visualizations/videos/thesis_examples/block_2_add6_tv.mp4"  type="video/mp4">
   </video>
 </html>
 
 ### Still bad
 <html>
-  <video width="500" height="200" preload="none" controls loop>
+  <video id="neb_example_2_add_6_notv" width="500" height="200" preload="none" controls loop>
      <source src="mobilenet_v2_visualizations/videos/thesis_examples/block_2_add6_notv.mp4"  type="video/mp4">
   </video>
 </html>
