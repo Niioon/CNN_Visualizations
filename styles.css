@@ -42,8 +42,8 @@
   
   .image-grid {
     display: grid;
-    grid-template-columns: repeat(2, 500px);
-    grid-template-rows: repeat(3, 550px);
+    grid-template-columns: repeat(3, 333px);
+    grid-template-rows: repeat(2, 330px);
     margin: 0.5;
   }
    
