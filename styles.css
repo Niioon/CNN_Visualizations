@@ -43,7 +43,7 @@
   .image-grid {
     display: grid;
     grid-template-columns: repeat(2, 500px);
-    grid-template-rows: repeat(3, 500px);
+    grid-template-rows: repeat(3, 550px);
     margin: 0.5;
   }
    
