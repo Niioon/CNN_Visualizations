@@ -49,7 +49,7 @@ The feature detectors in block 1 seem to respond to different kinds of edges. No
 <body>
 <div class="image-grid">
   <div class="image-item">
-    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/1_lucid.png" alt="edge feature" width="330" height="330"
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/1_lucid.png" alt="edge feature" width="330" height="330">
      <header class="entry-header">
         <h3>Block_1_project_BN, unit 1</h3>
     </header>
