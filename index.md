@@ -90,7 +90,7 @@ The feature detectors in block 1 seem to respond to different kinds of edges. No
 <div  id="edge_videos" class="video-grid">
   <div class="video-item">
     <div class="video-wrap">
-      <video width="500" height="200" preload="none" controls loop>
+      <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_1_project_BN/1_lucid.png" controls loop>
         <source src="mobilenet_v2_visualizations/videos/edges/block_1_project_BN1_1.mp4"  type="video/mp4">
       </video>
     </div>
