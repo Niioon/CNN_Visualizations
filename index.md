@@ -1,4 +1,25 @@
 ## NEB algorithm for Feature Visualization
+### One example
+
+<html>
+  <video id="neb_example_12_add_1" width="500" height="200" controls loop>
+     <source src="mobilenet_v2_visualizations/videos/thesis_examples/12_add_1_naix_lucid.mp4"  type="video/mp4">
+  </video>
+</html>
+
+### Another example
+<html>
+  <video id="neb_example_12_add_32" width="500" height="200" controls loop>
+     <source src="mobilenet_v2_visualizations/videos/thesis_examples/12_add_32_naive_tv.mp4"  type="video/mp4">
+  </video>
+</html>
+### Multiple Starting Images
+
+<html>
+  <video width="500" height="200" controls loop>
+     <source src="mobilenet_v2_visualizations/videos/thesis_examples/12_add_32_naive_tv.mp4"  type="video/mp4">
+  </video>
+</html>
 
 ## MobileNetV2 Visualizations
 Visualizations of different features of MobileNetV2
