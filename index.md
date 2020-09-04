@@ -49,39 +49,39 @@ The feature detectors in block 1 seem to respond to different kinds of edges. No
 <body>
 <div class="image-grid">
   <div class="image-item">
-    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/1_lucid.png" alt="edge feature" width="300" height="300">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/1_lucid.png" alt="edge feature" width="330" height="330"
      <header class="entry-header">
-        <h3>1</h3>
+        <h3>Block_1_project_BN, unit 1</h3>
     </header>
   </div>
   <div class="image-item">
-    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/2_lucid.png" alt="edge feature" width="300" height="300">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/2_lucid.png" alt="edge feature" width="330" height="330">
     <header class="entry-header">
-        <h3>2</h3>
+        <h3>Block_1_project_BN, unit 2</h3>
     </header>
   </div>
   <div class="image-item">
-    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/3_lucid.png" alt="edge feature" width="300" height="300">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/3_lucid.png" alt="edge feature" width="330" height="330">
     <header class="entry-header">
-        <h3>3</h3>
+        <h3>Block_1_project_BN, unit 3</h3>
     </header>
   </div>
   <div class="image-item">
-    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/9_lucid.png" alt="edge feature" width="300" height="300">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/9_lucid.png" alt="edge feature" width="330" height="330">
     <header class="entry-header">
-        <h3>9</h3>
+        <h3>Block_1_project_BN, unit 9</h3>
     </header>
   </div>
   <div class="image-item">
-    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/20_lucid.png" alt="edge feature" width="300" height="300">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/20_lucid.png" alt="edge feature" width="330" height="330">
     <header class="entry-header">
-        <h3>20</h3>
+        <h3>Block_1_project_BN, unit 20</h3>
     </header>
   </div>
   <div class="image-item">
-    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/22_lucid.png" alt="edge feature" width="300" height="300">
+    <img src="mobilenet_v2_visualizations/images/block_1_project_BN/22_lucid.png" alt="edge feature" width="330" height="330">
     <header class="entry-header">
-        <h3>22</h3>
+        <h3>Block_1_project_BN, unit 22</h3>
     </header>
   </div>
 </div>
