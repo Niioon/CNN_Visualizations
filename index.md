@@ -47,7 +47,27 @@ The feature detectors in block 1 seem to respond to different kinds of edges. No
 </head>
 
 <body>
- 
+<div class="image-grid">
+  <div class="image-item">
+    <img src="img_girl.jpg" alt="edge feature" width="500" height="500">
+  </div>
+  <div class="image-item">
+    <img src="img_girl.jpg" alt="edge feature" width="500" height="500">
+  </div>
+  <div class="image-item">
+    <img src="img_girl.jpg" alt="edge feature" width="500" height="500">
+  </div>
+  <div class="image-item">
+    <img src="img_girl.jpg" alt="edge feature" width="500" height="500">
+  </div>
+  <div class="image-item">
+    <img src="img_girl.jpg" alt="edge feature" width="500" height="500">
+  </div>
+  <div class="image-item">
+    <img src="img_girl.jpg" alt="edge feature" width="500" height="500">
+  </div>
+</div>
+
 <div  id="edge_videos" class="video-grid">
   <div class="video-item">
     <div class="video-wrap">

@@ -39,6 +39,12 @@
   .video-item iframe {
     border: 0.125rem solid transparent;
   }
-
+  
+  .image-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 500px);
+    grid-template-rows: repeat(3, 500px);
+    margin: 0.5;
+  }
    
 }
