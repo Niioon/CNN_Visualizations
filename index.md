@@ -56,20 +56,20 @@ The feature detectors in block 1 seem to respond to different kinds of edges. No
       </video>
     </div>
   </div>
+ <div class="video-item">
+      <div class="video-wrap">
+        <video width="500" height="200" preload="none" controls loop>
+          <source src="mobilenet_v2_visualizations/videos/edges/block_1_project_BN20_1.mp4"  type="video/mp4">
+        </video>
+       </div>
+   </div>
   <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" preload="none" controls loop>
-        <source src="mobilenet_v2_visualizations/videos/edges/block_1_project_BN20_1.mp4"  type="video/mp4">
+        <source src="mobilenet_v2_visualizations/videos/edges/block_1_project_BN22_1.mp4"  type="video/mp4">
       </video>
-    </div>
+     </div>
   </div>
-  <div class="video-item">
-      <div class="video-wrap">
-        <video width="500" height="200" preload="none" controls loop>
-          <source src="mobilenet_v2_visualizations/videos/edges/block_1_project_BN22_1"  type="video/mp4">
-        </video>
-       </div>
-    </div>
    <div class="video-item">
       <div class="video-wrap">
         <video width="500" height="200" preload="none" controls loop>
