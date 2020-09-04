@@ -557,7 +557,7 @@ More complex patterns, containing small parts like eyes.
     </header>
   </div>
   <div class="image-item">
-    <img src="mobilenet_v2_visualizations/images/pre_softmax/268_lucid.png" alt="edge feature" width="330" height="330">
+    <img src="mobilenet_v2_visualizations/images/pre_softmax/468_lucid.png" alt="edge feature" width="330" height="330">
     <header class="entry-header">
         <h4>pre_softmax Cab</h4>
     </header>
