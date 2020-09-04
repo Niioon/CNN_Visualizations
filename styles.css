@@ -35,6 +35,9 @@
     display: grid;
     grid-template-columns: repeat(2, 500px);
     grid-template-rows: repeat(3, 200px);
+    grid-column-gap: 3px;
+    grid-row-gap: 3px;
+
     margin: 0.5;
   }
   
