@@ -232,7 +232,7 @@ The features of the following blocks are more plastic and show textures
 </body>
 </html>
 
-### Patterns
+## Patterns
 More complex patterns, containing small parts like eyes.
 
 <html>
@@ -328,7 +328,7 @@ More complex patterns, containing small parts like eyes.
 </body>
 </html>
 
-### Parts
+## Parts
 
 <html>
 
@@ -425,7 +425,7 @@ More complex patterns, containing small parts like eyes.
 </body>
 </html>
 
-### Objects
+## Objects
 
 
 <html>
@@ -521,7 +521,7 @@ More complex patterns, containing small parts like eyes.
 </body>
 </html>
 
-### Classes
+## Classes
 
 <html>
 
