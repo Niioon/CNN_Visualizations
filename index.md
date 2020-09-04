@@ -2,22 +2,37 @@
 ### One example
 
 <html>
-  <video id="neb_example_12_add_1" width="500" height="200" controls loop>
+  <video id="neb_example_12_add_1" width="500" height="200" preload="none" controls loop>
      <source src="mobilenet_v2_visualizations/videos/thesis_examples/12_add_1_naix_lucid.mp4"  type="video/mp4">
   </video>
 </html>
 
 ### Another example
 <html>
-  <video id="neb_example_12_add_32" width="500" height="200" controls loop>
+  <video id="neb_example_12_add_32" width="500" height="200" preload="none" controls loop>
      <source src="mobilenet_v2_visualizations/videos/thesis_examples/12_add_32_naive_tv.mp4"  type="video/mp4">
   </video>
 </html>
 ### Multiple Starting Images
 
 <html>
-  <video width="500" height="200" controls loop>
-     <source src="mobilenet_v2_visualizations/videos/thesis_examples/12_add_32_naive_tv.mp4"  type="video/mp4">
+  <video width="500" height="200" preload="none" controls loop>
+     <source src="mobilenet_v2_visualizations/videos/thesis_examples/neb_block_12_add33.mp4"  type="video/mp4">
+  </video>
+</html>
+
+### A bad example
+
+<html>
+  <video width="500" height="200" preload="none" controls loop>
+     <source src="mobilenet_v2_visualizations/videos/thesis_examples/block_2_add6_tv.mp4"  type="video/mp4">
+  </video>
+</html>
+
+### Still bad
+<html>
+  <video width="500" height="200" preload="none" controls loop>
+     <source src="mobilenet_v2_visualizations/videos/thesis_examples/block_2_add6_notv.mp4"  type="video/mp4">
   </video>
 </html>
 
