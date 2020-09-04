@@ -41,7 +41,7 @@
     grid-column-gap: 3px;
     grid-row-gap: 3px;
 
-    margin: 10px;
+    margin: 20px;
   }
   
   .video-item {
@@ -59,7 +59,7 @@
     display: grid;
     grid-template-columns: repeat(3, 333px);
     grid-template-rows: repeat(2, 360px);
-    margin: 10px;
+    margin: 20px;
   }
    
 }
