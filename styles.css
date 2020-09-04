@@ -1,5 +1,8 @@
 .video-item {
   overflow: hidden;
+  margin-bottom: 5px;
+  margin-top: 5px;
+
 }
 
 .image-item {
