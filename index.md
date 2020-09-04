@@ -15,7 +15,6 @@
 </html>
 
 ## Multiple Starting Images
-
 <html>
   <video id="neb_example_12_add_33" width="500" height="200" preload="none" controls loop>
      <source src="mobilenet_v2_visualizations/videos/thesis_examples/neb_block_12_add33.mp4"  type="video/mp4">
@@ -23,7 +22,7 @@
 </html>
 
 ## A bad example
-
+The total variation penalty does not work for this feature map.
 <html>
   <video  id="neb_example_2_add_6_tv" width="500" height="200" preload="none" controls loop>
      <source src="mobilenet_v2_visualizations/videos/thesis_examples/block_2_add6_tv.mp4"  type="video/mp4">
@@ -31,6 +30,7 @@
 </html>
 
 ## Still bad
+Without the video is still very noisy
 <html>
   <video id="neb_example_2_add_6_notv" width="500" height="200" preload="none" controls loop>
      <source src="mobilenet_v2_visualizations/videos/thesis_examples/block_2_add6_notv.mp4"  type="video/mp4">
@@ -574,42 +574,42 @@ More complex patterns, containing small parts like eyes.
  <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" preload="none" controls loop>
-        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        <source src="mobilenet_v2_visualizations/videos/classes/pre_softmax385_1.mp4"  type="video/mp4">
       </video>
     </div>
   </div>
   <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" preload="none" controls loop>
-        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        <source src="mobilenet_v2_visualizations/videos/classes/pre_softmax76_1.mp4"  type="video/mp4">
       </video>
     </div>
   </div>
   <div class="video-item">
       <div class="video-wrap">
         <video width="500" height="200" preload="none" controls loop>
-          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+          <source src="mobilenet_v2_visualizations/videos/classes/pre_softmax62_1.mp4"  type="video/mp4">
         </video>
        </div>
     </div>
    <div class="video-item">
       <div class="video-wrap">
         <video width="500" height="200" preload="none" controls loop>
-          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+          <source src="mobilenet_v2_visualizations/videos/classes/pre_softmax445_1.mp4"  type="video/mp4">
         </video>
        </div>
     </div>
   <div class="video-item">
       <div class="video-wrap">
         <video width="500" height="200" preload="none" controls loop>
-          <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+          <source src="mobilenet_v2_visualizations/videos/classes/pre_softmax468_1.mp4"  type="video/mp4">
         </video>
        </div>
    </div>
   <div class="video-item">
     <div class="video-wrap">
       <video width="500" height="200" preload="none" controls loop>
-        <source src="mobilenet_v2_visualizations/videos/block_12_add1_1.mp4"  type="video/mp4">
+        <source src="mobilenet_v2_visualizations/videos/classes/pre_softmax366_1.mp4"  type="video/mp4">
       </video>
      </div>
   </div>
