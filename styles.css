@@ -2,8 +2,17 @@
   overflow: hidden;
 }
 
+.image-item {
+  overflow: hidden;
+}
+
 
 .video-wrap {
+  position: relative;
+}
+
+
+.image-wrap {
   position: relative;
 }
 
@@ -44,7 +53,7 @@
     display: grid;
     grid-template-columns: repeat(3, 333px);
     grid-template-rows: repeat(2, 330px);
-    margin: 0.5;
+    margin: 0;
   }
    
 }
