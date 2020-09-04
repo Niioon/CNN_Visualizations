@@ -41,7 +41,7 @@
     grid-template-rows: repeat(3, 200px);
    
     margin-bottom: 20px;
-    margin-top: 20px;
+    margin-top: 40px;
     margin-right: 0px;
     margin-left: 0px;
 
@@ -62,7 +62,7 @@
   .image-grid {
     display: grid;
     grid-template-columns: repeat(3, 333px);
-    grid-template-rows: repeat(2, 355px);
+    grid-template-rows: repeat(2, 360px);
     grid-column-gap: 2px;
     grid-row-gap: 7px;
     margin-bottom: 20px;
