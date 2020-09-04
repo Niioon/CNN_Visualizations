@@ -97,35 +97,35 @@ The feature detectors in block 1 seem to respond to different kinds of edges. No
   </div>
  <div class="video-item">
       <div class="video-wrap">
-        <video width="500" height="200" preload="none" controls loop>
+        <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_1_project_BN/20_lucid.png" controls loop>
           <source src="mobilenet_v2_visualizations/videos/edges/block_1_project_BN20_1.mp4"  type="video/mp4">
         </video>
        </div>
    </div>
   <div class="video-item">
     <div class="video-wrap">
-      <video width="500" height="200" preload="none" controls loop>
+      <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_1_project_BN/22_lucid.png" controls loop>
         <source src="mobilenet_v2_visualizations/videos/edges/block_1_project_BN22_1.mp4"  type="video/mp4">
       </video>
      </div>
   </div>
    <div class="video-item">
       <div class="video-wrap">
-        <video width="500" height="200" preload="none" controls loop>
+        <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_1_project_BN/2_lucid.png" controls loop>
           <source src="mobilenet_v2_visualizations/videos/edges/block_1_project_BN2_1.mp4"  type="video/mp4">
         </video>
        </div>
     </div>
   <div class="video-item">
       <div class="video-wrap">
-        <video width="500" height="200" preload="none" controls loop>
+        <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_1_project_BN/3_lucid.png" controls loop>
           <source src="mobilenet_v2_visualizations/videos/edges/block_1_project_BN3_1.mp4"  type="video/mp4">
         </video>
        </div>
    </div>
   <div class="video-item">
     <div class="video-wrap">
-      <video width="500" height="200" preload="none" controls loop>
+      <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_1_project_BN/9_lucid.png" controls loop>
         <source src="mobilenet_v2_visualizations/videos/edges/block_1_project_BN9_1.mp4"  type="video/mp4">
       </video>
      </div>
@@ -188,42 +188,42 @@ The features of the following blocks are more plastic and show textures
 <div  id="texture_videos" class="video-grid">
  <div class="video-item">
     <div class="video-wrap">
-      <video width="500" height="200" preload="none" controls loop>
+      <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_3_project_BN/10_lucid.png" controls loop>
         <source src="mobilenet_v2_visualizations/videos/textures/block_3_project_BN10_1.mp4"  type="video/mp4">
       </video>
     </div>
   </div>
   <div class="video-item">
     <div class="video-wrap">
-      <video width="500" height="200" preload="none" controls loop>
+      <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_3_project_BN/26_lucid.png" controls loop>
         <source src="mobilenet_v2_visualizations/videos/textures/block_3_project_BN26_1.mp4"  type="video/mp4">
       </video>
     </div>
   </div>
   <div class="video-item">
       <div class="video-wrap">
-        <video width="500" height="200" preload="none" controls loop>
+        <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_3_project_BN/6_lucid.png" controls loop>
           <source src="mobilenet_v2_visualizations/videos/textures/block_3_project_BN6_1.mp4"  type="video/mp4">
         </video>
        </div>
     </div>
    <div class="video-item">
       <div class="video-wrap">
-        <video width="500" height="200" preload="none" controls loop>
+        <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_4_project_BN/20_lucid.png" controls loop>
           <source src="mobilenet_v2_visualizations/videos/textures/block_4_project_BN20_1.mp4"  type="video/mp4">
         </video>
        </div>
     </div>
   <div class="video-item">
       <div class="video-wrap">
-        <video width="500" height="200" preload="none" controls loop>
+        <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_5_add/1_lucid.png" controls loop>
           <source src="mobilenet_v2_visualizations/videos/textures/block_5_add1_1.mp4"  type="video/mp4">
         </video>
        </div>
    </div>
   <div class="video-item">
     <div class="video-wrap">
-      <video width="500" height="200" preload="none" controls loop>
+      <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_5_add/28_lucid.png" controls loop>
         <source src="mobilenet_v2_visualizations/videos/textures/block_5_add28_1.mp4"  type="video/mp4">
       </video>
      </div>
@@ -284,42 +284,42 @@ More complex patterns, containing small parts like eyes.
 <div  id="pattern_videos" class="video-grid">
   <div class="video-item">
     <div class="video-wrap">
-      <video width="500" height="200" preload="none" controls loop>
+      <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_6_project_BN/1_lucid.png" controls loop>
         <source src="mobilenet_v2_visualizations/videos/patterns/block_6_project_BN1_1.mp4"  type="video/mp4">
       </video>
     </div>
   </div>
   <div class="video-item">
     <div class="video-wrap">
-      <video width="500" height="200" preload="none" controls loop>
+      <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_6_project_BN/59_lucid.png" controls loop>
         <source src="mobilenet_v2_visualizations/videos/patterns/block_6_project_BN59_1.mp4"  type="video/mp4">
       </video>
     </div>
   </div>
   <div class="video-item">
       <div class="video-wrap">
-        <video width="500" height="200" preload="none" controls loop>
+        <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_6_project_BN/7_lucid.png" controls loop>
           <source src="mobilenet_v2_visualizations/videos/patterns/block_6_project_BN7_1.mp4"  type="video/mp4">
         </video>
        </div>
     </div>
    <div class="video-item">
       <div class="video-wrap">
-        <video width="500" height="200" preload="none" controls loop>
+        <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_7_add/6_lucid.png" controls loop>
           <source src="mobilenet_v2_visualizations/videos/patterns/block_7_add6_1.mp4"  type="video/mp4">
         </video>
        </div>
     </div>
   <div class="video-item">
       <div class="video-wrap">
-        <video width="500" height="200" preload="none" controls loop>
+        <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_7_project_BN/17_lucid.png" controls loop>
           <source src="mobilenet_v2_visualizations/videos/patterns/block_7_project_BN17_1.mp4"  type="video/mp4">
         </video>
        </div>
    </div>
   <div class="video-item">
     <div class="video-wrap">
-      <video width="500" height="200" preload="none" controls loop>
+      <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_7_project_BN/3_lucid.png" controls loop>
         <source src="mobilenet_v2_visualizations/videos/patterns/block_7_project_BN3_1.mp4"  type="video/mp4">
       </video>
      </div>
@@ -381,43 +381,43 @@ More complex patterns, containing small parts like eyes.
 <div  id="parts_videos" class="video-grid">
 <div class="video-item">
     <div class="video-wrap">
-      <video width="500" height="200" preload="none" controls loop>
+      <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_11_project_BN/5_lucid.png" controls loop>
         <source src="mobilenet_v2_visualizations/videos/parts/block_11_project_BN5_1.mp4"  type="video/mp4">
       </video>
     </div>
   </div>
   <div class="video-item">
     <div class="video-wrap">
-      <video width="500" height="200" preload="none" controls loop>
+      <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_11_project_BN/89_lucid.png" controls loop>
         <source src="mobilenet_v2_visualizations/videos/parts/block_11_project_BN89_1.mp4"  type="video/mp4">
       </video>
     </div>
   </div>
   <div class="video-item">
       <div class="video-wrap">
-        <video width="500" height="200" preload="none" controls loop>
+        <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_12_add/25_lucid.png" controls loop>
           <source src="mobilenet_v2_visualizations/videos/parts/block_12_add25_1.mp4"  type="video/mp4">
         </video>
        </div>
     </div>
    <div class="video-item">
       <div class="video-wrap">
-        <video width="500" height="200" preload="none" controls loop>
+        <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_12_add/30_lucid.png" controls loop>
           <source src="mobilenet_v2_visualizations/videos/parts/block_12_add30_1.mp4"  type="video/mp4">
         </video>
        </div>
     </div>
   <div class="video-item">
       <div class="video-wrap">
-        <video width="500" height="200" preload="none" controls loop>
+        <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_12_add/44_lucid.png" controls loop>
           <source src="mobilenet_v2_visualizations/videos/parts/block_12_add44_1.mp4"  type="video/mp4">
         </video>
        </div>
    </div>
   <div class="video-item">
     <div class="video-wrap">
-      <video width="500" height="200" preload="none" controls loop>
-        <source src="mobilenet_v2_visualizations/videos/parts/block_12_add44_1.mp4"  type="video/mp4">
+      <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_12_add/25_lucid.png" controls loop>
+        <source src="mobilenet_v2_visualizations/videos/parts/block_12_add25_1.mp4"  type="video/mp4">
       </video>
      </div>
   </div>
@@ -477,42 +477,42 @@ More complex patterns, containing small parts like eyes.
 <div  id="objects_videos" class="video-grid">
  <div class="video-item">
     <div class="video-wrap">
-      <video width="500" height="200" poster="mobilenet_v2_visualizations/videos/posters/poster_block_13_project_BN_60.png" controls loop>
+      <video width="500" height="200" poster="mobilenet_v2_visualizations/images/block_13_project_BN/60_lucid.png" controls loop>
         <source src="mobilenet_v2_visualizations/videos/objects/block_13_project_BN60_1.mp4"  type="video/mp4">
       </video>
     </div>
   </div>
   <div class="video-item">
     <div class="video-wrap">
-      <video width="500" height="200" preload="none" controls loop>
+      <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_14_add/110_lucid.png" controls loop>
         <source src="mobilenet_v2_visualizations/videos/objects/block_14_add110_1.mp4"  type="video/mp4">
       </video>
     </div>
   </div>
   <div class="video-item">
       <div class="video-wrap">
-        <video width="500" height="200" preload="none" controls loop>
+        <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_14_add/149_lucid.png" controls loop>
           <source src="mobilenet_v2_visualizations/videos/objects/block_14_add149_1.mp4"  type="video/mp4">
         </video>
        </div>
     </div>
    <div class="video-item">
       <div class="video-wrap">
-        <video width="500" height="200" preload="none" controls loop>
+        <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_14_add/153_lucid.png" controls loop>
           <source src="mobilenet_v2_visualizations/videos/objects/block_14_add153_1.mp4"  type="video/mp4">
         </video>
        </div>
     </div>
   <div class="video-item">
       <div class="video-wrap">
-        <video width="500" height="200" preload="none" controls loop>
+        <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_14_add/3_lucid.png" controls loop>
           <source src="mobilenet_v2_visualizations/videos/objects/block_14_add3_1.mp4"  type="video/mp4">
         </video>
        </div>
    </div>
   <div class="video-item">
     <div class="video-wrap">
-      <video width="500" height="200" preload="none" controls loop>
+      <video width="500" height="200" preload="none"poster="mobilenet_v2_visualizations/images/block_14_add/95_lucid.png"  controls loop>
         <source src="mobilenet_v2_visualizations/videos/objects/block_14_add95_1.mp4"  type="video/mp4">
       </video>
      </div>
@@ -573,42 +573,42 @@ More complex patterns, containing small parts like eyes.
 <div  id="classes_videos" class="video-grid">
  <div class="video-item">
     <div class="video-wrap">
-      <video width="500" height="200" preload="none" controls loop>
+      <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/pre_softmax/385_lucid.png" controls loop>
         <source src="mobilenet_v2_visualizations/videos/classes/pre_softmax385_1.mp4"  type="video/mp4">
       </video>
     </div>
   </div>
   <div class="video-item">
     <div class="video-wrap">
-      <video width="500" height="200" preload="none" controls loop>
+      <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/pre_softmax/76_lucid.png" controls loop>
         <source src="mobilenet_v2_visualizations/videos/classes/pre_softmax76_1.mp4"  type="video/mp4">
       </video>
     </div>
   </div>
   <div class="video-item">
       <div class="video-wrap">
-        <video width="500" height="200" preload="none" controls loop>
+        <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/pre_softmax/62_lucid.png" controls loop>
           <source src="mobilenet_v2_visualizations/videos/classes/pre_softmax62_1.mp4"  type="video/mp4">
         </video>
        </div>
     </div>
    <div class="video-item">
       <div class="video-wrap">
-        <video width="500" height="200" preload="none" controls loop>
+        <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/pre_softmax/445_lucid.png" controls loop>
           <source src="mobilenet_v2_visualizations/videos/classes/pre_softmax445_1.mp4"  type="video/mp4">
         </video>
        </div>
     </div>
   <div class="video-item">
       <div class="video-wrap">
-        <video width="500" height="200" preload="none" controls loop>
+        <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/pre_softmax/468_lucid.png" controls loop>
           <source src="mobilenet_v2_visualizations/videos/classes/pre_softmax468_1.mp4"  type="video/mp4">
         </video>
        </div>
    </div>
   <div class="video-item">
     <div class="video-wrap">
-      <video width="500" height="200" preload="none" controls loop>
+      <video width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/pre_softmax/366_lucid.png" controls loop>
         <source src="mobilenet_v2_visualizations/videos/classes/pre_softmax366_1.mp4"  type="video/mp4">
       </video>
      </div>
