@@ -45,7 +45,7 @@ Without the penalty the video is still very noisy.
 Visualizations of different features of MobileNetV2
 
 ## Edges
-The feature detectors in block 1 seem to respond to different kinds of edges. No total variation penalty was used to create the following videos, as it is counterproductive for edges.
+No total variation penalty was used to create the following videos, as it is counterproductive for edges.
 <html>
 
 <head>
@@ -236,8 +236,7 @@ The feature detectors in block 1 seem to respond to different kinds of edges. No
 </html>
 
 ## Patterns
-More complex patterns, containing small parts like eyes.
-
+ 
 <html>
 
 <head>
