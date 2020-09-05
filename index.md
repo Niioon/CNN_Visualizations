@@ -1,44 +1,49 @@
 # NEB algorithm for Feature Visualization
-## One example
+## NEB between Two Starting Images
 
+
+#### Block 12 Add, Unit 1
 <html>
-  <video id="neb_example_12_add_1" width="500" height="200" preload="none" controls loop>
+  <video id="neb_example_12_add_1" width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_12_add/1_lucid.png" controls loop>
      <source src="mobilenet_v2_visualizations/videos/thesis_examples/12_add_1_naix_lucid.mp4"  type="video/mp4">
   </video>
 </html>
 
-## Another example
+#### Block 12 Add, Unit 32
 <html>
-  <video id="neb_example_12_add_32" width="500" height="200" preload="none" controls loop>
+  <video id="neb_example_12_add_32" width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_12_add/32_lucid.png" controls loop>
      <source src="mobilenet_v2_visualizations/videos/thesis_examples/12_add_32_naive_tv.mp4"  type="video/mp4">
   </video>
 </html>
 
-## Multiple Starting Images
+## NEB with Multiple Starting Images
+
+#### BLock 12 Add, Unit 33
 <html>
-  <video id="neb_example_12_add_33" width="500" height="200" preload="none" controls loop>
+  <video id="neb_example_12_add_33" width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_12_add/33_lucid.png"  controls loop>
      <source src="mobilenet_v2_visualizations/videos/thesis_examples/neb_block_12_add33.mp4"  type="video/mp4">
   </video>
 </html>
 
-## A bad example
+#### BLock 2 Add, Unit 6
 The total variation penalty does not work for this feature map.
 <html>
-  <video  id="neb_example_2_add_6_tv" width="500" height="200" preload="none" controls loop>
+  <video  id="neb_example_2_add_6_tv" width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_2_add/6_lucid.png"  controls loop>
      <source src="mobilenet_v2_visualizations/videos/thesis_examples/block_2_add6_tv.mp4"  type="video/mp4">
   </video>
 </html>
 
-## Still bad
-Without the video is still very noisy
+Without the penalty the video is still very noisy.
 <html>
-  <video id="neb_example_2_add_6_notv" width="500" height="200" preload="none" controls loop>
+  <video id="neb_example_2_add_6_notv" width="500" height="200" preload="none" poster="mobilenet_v2_visualizations/images/block_2_add/6_lucid.png"  controls loop>
      <source src="mobilenet_v2_visualizations/videos/thesis_examples/block_2_add6_notv.mp4"  type="video/mp4">
   </video>
 </html>
 
 # MobileNetV2 Visualizations
+
 Visualizations of different features of MobileNetV2
+
 ## Edges
 The feature detectors in block 1 seem to respond to different kinds of edges. No total variation penalty was used to create the following videos, as it is counterproductive for edges.
 <html>
@@ -135,8 +140,6 @@ The feature detectors in block 1 seem to respond to different kinds of edges. No
 </html>
  
 ## Textures
-
-The features of the following blocks are more plastic and show textures
 
 <html>
 
