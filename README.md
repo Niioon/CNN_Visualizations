@@ -1,4 +1,4 @@
- # CNN Feature Visualizaionts
+ # CNN Feature Visualizations
  
  This reposetorires contains an implementation of feature visualization and a nudged elastic band algorithm, which is used to produce short video clips of different features.
  Some resulst are depiceted under <https://niioon.github.io/CNN_Visualizations/>
